@@ -1,16 +1,32 @@
-### Hi there 👋
+## 💫 Intro:
+ 👨‍💻 Talk to me about anything related to cross-platform mobile app development with React Native
+ 
+ <br>
 
-<!--
-**Damnmichael/Damnmichael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 📫 You can reach me at michaelgafah@gmail.com 
+ 
+<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack:
+<h4 align="left">Programming languages:</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
+
+<h4 align="left">Mobile app development:</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+
+<h4 align="left">Frontend web development:</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,react&perline=5)](https://skillicons.dev)
+  
+<h4 align="left">Design:</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=figma,webflow&perline=5)](https://skillicons.dev)
+
+<br>
+
+## 📊 GitHub Stats:
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Damnmichael&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
