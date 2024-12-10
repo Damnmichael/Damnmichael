@@ -3,7 +3,7 @@
  
  <br>
 
- 📫 You can reach me at michaelgafah@gmail.com 
+ 📫 You can reach me at michaelgafah12@gmail.com 
  
 <br>
 
@@ -28,7 +28,7 @@
 <br>
 
 ## 📊 GitHub Stats:
-[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Damnmichael&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Damnmichael&theme=algolia)](https://git.io/streak-stats)
